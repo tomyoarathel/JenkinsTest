@@ -6,7 +6,7 @@ package com.mycompany.test;
  */
 public class App 
 {
-    blic static void main( String[] args )
+    public static void main( String[] args )
     {
         System.out.println( "Hello World!" );
     }
